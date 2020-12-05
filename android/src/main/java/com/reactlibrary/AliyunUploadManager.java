@@ -98,7 +98,8 @@ public class AliyunUploadManager {
             metadata.setContentType("image/jpeg");
             }else{
             metadata.setContentType("video/mp4");
-            }         put.setMetadata(metadata);
+            } 
+        put.setMetadata(metadata);
 
         // set callback
         put.setProgressCallback(new OSSProgressCallback<PutObjectRequest>() {

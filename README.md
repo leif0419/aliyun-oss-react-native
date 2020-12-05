@@ -1,17 +1,3 @@
-# 这是我根据自己的需求修改的  上传的图片只能是.jpg后缀 上传的图片只能是.mp4后缀 
-# 修改详情请看[CSDN](https://blog.csdn.net/qq_42076140/article/details/92106938)
-# 直接从github安装
-```
-yarn add https://github.com/leif0419/aliyun-oss-react-native
-```
-****
-****
-****
-****
-
-# 以下是aliyun-oss-react-native文档
-
-# Aliyun OSS SDK for React Native
 # Alibaba Cloud OSS SDK for React Native
 
 ## [README of Chinese](https://github.com/aliyun/aliyun-oss-react-native/blob/master/README-CN.md)
