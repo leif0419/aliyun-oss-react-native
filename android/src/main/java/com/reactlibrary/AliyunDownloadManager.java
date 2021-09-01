@@ -55,7 +55,7 @@ public class AliyunDownloadManager {
                 int len;
 
                 FileOutputStream outputStream = null;
-                String localImgURL = Environment.getExternalStorageDirectory().getAbsolutePath() +
+                String localImgURL = context.getExternalFilesDir("").getAbsolutePath() +
                         "/ImgCache/" +
                         System.currentTimeMillis() +
                         ".jpg";
